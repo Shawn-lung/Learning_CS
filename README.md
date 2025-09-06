@@ -1,4 +1,4 @@
-# Learning Algorithm Repository
+# Learning CS Repository
 
 ## Purpose
 
